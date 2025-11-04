@@ -1,0 +1,8 @@
+
+[
+  { "id": 1, "title": "Wireless Mouse", "price": 39.99, "category": "Electronics", "image": "https://picsum.photos/300?random=1" },
+  { "id": 2, "title": "Cotton Shirt", "price": 29.99, "category": "Fashion", "image": "https://picsum.photos/300?random=2" },
+  { "id": 3, "title": "Coffee Maker", "price": 79.99, "category": "Home", "image": "https://picsum.photos/300?random=3" },
+  { "id": 4, "title": "Bluetooth Speaker", "price": 59.99, "category": "Electronics", "image": "https://picsum.photos/300?random=4" },
+  { "id": 5, "title": "Sneakers", "price": 89.99, "category": "Fashion", "image": "https://picsum.photos/300?random=5" }
+]
